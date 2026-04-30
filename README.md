@@ -1,5 +1,7 @@
 # **Bank Customer Behavior Prediction: Term Deposit**
 
+> The code is in 'the-attempt' directory.
+
 ## **Deskripsi Proyek**
 Proyek ini dikerjakan sebagai bagian dari kompetisi Data Quest yang diselenggarakan oleh Data Science Indonesia dalam rangka perayaan ulang tahun ke-10 mereka. Kompetisi ini menantang peserta untuk membangun model *machine learning* yang dapat memprediksi perilaku nasabah perbankan.
 
