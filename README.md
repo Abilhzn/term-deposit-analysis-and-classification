@@ -18,17 +18,7 @@ Dari visualisasi dan analisis deskriptif data, beberapa temuan kunci terkait kar
 
 ## **Pipeline Metodologi Prapemrosesan & Pemodelan**
 
-<svg width="1000" height="400" xmlns="http://w3.org">
-    <rect x="2" y="2" width="99.5%" height="98.5%" fill="black" stroke="#d0d7de" stroke-width="2" rx="15" ry="15"/>
-    <image 
-        href="[metodologi.png](https://github.com/Abilhzn/term-deposit-analysis-and-classification/blob/main/metodologi.png)" 
-        x="1%" 
-        y="1%" 
-        width="98%" 
-        height="98%" 
-        preserveAspectRatio="xMidYMid meet" 
-    />
-</svg>
+!['metodologi'](metodologi.png)
 
 ---
 *Dibuat oleh Muhammad Abil Hasan*
